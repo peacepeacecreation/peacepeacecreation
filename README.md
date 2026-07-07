@@ -4,18 +4,15 @@ Software developer, 9 years in. Learning in public — building an ML engineerin
 
 ---
 
-### 🎯 What I'm working on
+### 🚀 Start learning ML with me
 
-<p>
-  <a href="https://github.com/peacepeacecreation/MLLearning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peacepeacecreation&repo=MLLearning&theme=tokyonight&hide_border=true" alt="MLLearning" />
-  </a>
-  <a href="https://github.com/peacepeacecreation/roy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peacepeacecreation&repo=roy&theme=tokyonight&hide_border=true" alt="roy" />
-  </a>
-</p>
+I'm learning ML in the open with a method I've been developing: **Claude Code as mentor + a voice agent right in the terminal for verbal reinforcement after each lesson**. It's not just consuming tutorials — the process itself is the artifact. Roadmap, lessons, spaced retrieval, calibrated knowledge profile — all versioned publicly.
 
-- **AI-augmented dev workflow** — custom Claude Code agents, hooks, and voice tooling built into my daily loop.
+Explaining out loud catches what reading doesn't. 10 minutes of voice reflection after each lesson turns notes into knowledge.
+
+**→ [Join the journey — MLLearning](https://github.com/peacepeacecreation/MLLearning)**
+
+Also building: **[roy](https://github.com/peacepeacecreation/roy)** — realtime backend with self-hosted ML for autonomous systems.
 
 ---
 
@@ -74,40 +71,6 @@ ML fundamentals                  ██████                  Learning ·
 **Databases & infra:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
 **Currently learning:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
----
-
-### 🗺️ Learning roadmap
-
-```mermaid
-flowchart TB
-    P0[Phase 0 · Python foundations]:::current --> P1[Phase 1 · Math for ML]
-    P1 --> P2[Phase 2 · Classical ML]
-    P2 --> P3[Phase 3 · Deep Learning]
-    P3 --> P4[Phase 4 · LLM / GenAI]
-    P4 --> P5[Phase 5 · MLOps]
-    P5 --> P6[Phase 6 · Portfolio projects]
-
-    classDef current fill:#f9a825,color:#000,stroke:#f57f17,stroke-width:2px
-```
-
-Currently at **Phase 0** — Python foundations. Full plan and progress tracker: [ROADMAP.md](https://github.com/peacepeacecreation/MLLearning/blob/main/ROADMAP.md) · [PROGRESS.md](https://github.com/peacepeacecreation/MLLearning/blob/main/PROGRESS.md).
-
----
-
-### 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=peacepeacecreation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-</p>
-
-### 📈 Code breakdown by language
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacepeacecreation&layout=donut&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" alt="code breakdown" />
-</p>
-
-*Public repos on `peacepeacecreation` only. Private projects and code on other accounts not counted.*
 
 ---
 
