@@ -80,13 +80,13 @@ ML fundamentals                  ██████                  Learning ·
 ### 🗺️ Learning roadmap
 
 ```mermaid
-flowchart LR
-    P0[Phase 0<br/>Python foundations]:::current --> P1[Phase 1<br/>Math for ML]
-    P1 --> P2[Phase 2<br/>Classical ML]
-    P2 --> P3[Phase 3<br/>Deep Learning]
-    P3 --> P4[Phase 4<br/>LLM / GenAI]
-    P4 --> P5[Phase 5<br/>MLOps]
-    P5 --> P6[Phase 6<br/>Portfolio projects]
+flowchart TB
+    P0[Phase 0 · Python foundations]:::current --> P1[Phase 1 · Math for ML]
+    P1 --> P2[Phase 2 · Classical ML]
+    P2 --> P3[Phase 3 · Deep Learning]
+    P3 --> P4[Phase 4 · LLM / GenAI]
+    P4 --> P5[Phase 5 · MLOps]
+    P5 --> P6[Phase 6 · Portfolio projects]
 
     classDef current fill:#f9a825,color:#000,stroke:#f57f17,stroke-width:2px
 ```
