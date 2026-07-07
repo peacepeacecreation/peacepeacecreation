@@ -2,11 +2,22 @@
 
 Software developer, 9 years in. Learning in public — building an ML engineering path openly on GitHub. Based in Ukraine.
 
+---
+
 ### 🎯 What I'm working on
 
-- **[MLLearning](https://github.com/peacepeacecreation/MLLearning)** — public log of how I'm studying ML, from Python fundamentals toward production. Roadmap, lessons, and a meta-approach to using Claude Code as a mentor.
-- **[roy](https://github.com/peacepeacecreation/roy)** — realtime backend with self-hosted ML for autonomous systems.
+<p>
+  <a href="https://github.com/peacepeacecreation/MLLearning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peacepeacecreation&repo=MLLearning&theme=tokyonight&hide_border=true" alt="MLLearning" />
+  </a>
+  <a href="https://github.com/peacepeacecreation/roy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peacepeacecreation&repo=roy&theme=tokyonight&hide_border=true" alt="roy" />
+  </a>
+</p>
+
 - **AI-augmented dev workflow** — custom Claude Code agents, hooks, and voice tooling built into my daily loop.
+
+---
 
 ### 🛠️ Tech I work with
 
@@ -20,9 +31,18 @@ Software developer, 9 years in. Learning in public — building an ML engineerin
 
 **Currently learning:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
+---
+
+### 📊 Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=peacepeacecreation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacepeacecreation&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=6" alt="top langs" />
+</p>
+
+---
+
 ### 📬 Get in touch
 
 - 📧 **peacepeacecreation@gmail.com**
 - 💬 **Telegram:** [@ukrainianmartyn](https://t.me/ukrainianmartyn)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peacepeacecreation&layout=compact&hide=html,css&langs_count=6)
