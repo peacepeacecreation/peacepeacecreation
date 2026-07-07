@@ -12,8 +12,6 @@ Explaining out loud catches what reading doesn't. 10 minutes of voice reflection
 
 **→ [Join the journey — MLLearning](https://github.com/peacepeacecreation/MLLearning)**
 
-Also building: **[roy](https://github.com/peacepeacecreation/roy)** — realtime backend with self-hosted ML for autonomous systems.
-
 ---
 
 ### 🎙️ Voice AI & realtime telephony — main area of expertise
