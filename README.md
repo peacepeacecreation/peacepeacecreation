@@ -1,6 +1,6 @@
 ### Hi, I'm Martyn 👋
 
-Software developer, 9 years in. Learning in public — building an ML engineering path openly on GitHub. Based in Ukraine.
+Software developer, 9 years in. Learning in public — building an ML engineering path openly on GitHub.
 
 ---
 
