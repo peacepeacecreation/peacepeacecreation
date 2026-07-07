@@ -14,6 +14,65 @@ Explaining out loud catches what reading doesn't. 10 minutes of voice reflection
 
 ---
 
+### 🧠 AI / ML
+
+**Production expertise — daily work:**
+
+- **RAG pipelines** — vector search (pgvector, embeddings), semantic retrieval, hybrid search in production apps
+- **Context engineering & AI agents** — custom Claude Code agents, hooks, skills, MCP servers, and agentic dev workflows built into the daily loop
+- **Self-hosted LLM inference** — Llama, Piper (TTS), Whisper (STT) — privacy-first pipelines without cloud dependency
+- **Computer vision** — YOLO (Ultralytics) for realtime object detection over video streams
+- **Autonomous / C2 systems integration** — MAVLink telemetry, ArduPilot SITL, MQTT for sensor fusion and message-bus orchestration
+- **CI/CD for AI systems** — Docker, GitHub Actions, VPS + Vercel deployments for AI SaaS, observability, cost tracking
+
+**Production stack:**
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)](https://openai.com)
+[![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
+[![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![OpenRouter](https://img.shields.io/badge/-OpenRouter-1F1F1F?style=flat)](https://openrouter.ai)
+[![Llama](https://img.shields.io/badge/-Llama_(self--hosted)-4CAF50?style=flat)](https://llama.meta.com)
+[![pgvector](https://img.shields.io/badge/-pgvector-336791?logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
+[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)](https://langchain.com)
+[![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat)](https://www.llamaindex.ai)
+[![YOLO](https://img.shields.io/badge/-YOLO_(Ultralytics)-111F68?style=flat)](https://ultralytics.com)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
+[![MAVLink](https://img.shields.io/badge/-MAVLink-EE0000?style=flat)](https://mavlink.io)
+[![ArduPilot](https://img.shields.io/badge/-ArduPilot-2C3E50?style=flat)](https://ardupilot.org)
+[![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+---
+
+**Machine Learning fundamentals — the path I'm walking:**
+
+Structured public learning path — from Python foundations to production MLOps. Log: [MLLearning](https://github.com/peacepeacecreation/MLLearning).
+
+**Foundations & data:**
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)](https://matplotlib.org)
+
+**Classical ML:**
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![XGBoost](https://img.shields.io/badge/-XGBoost-006400?style=flat)](https://xgboost.readthedocs.io)
+
+**Deep Learning:**
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
+
+**MLOps:**
+[![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org)
+[![Weights & Biases](https://img.shields.io/badge/-W%26B-FFBE00?logo=weightsandbiases&logoColor=black)](https://wandb.ai)
+
+**Notebooks:**
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+
+---
+
 ### 🎙️ Voice AI & realtime telephony — main area of expertise
 
 Years of production experience across multiple voice AI platforms — multi-provider, multi-tenant, browser-to-phone. Own self-hosted stack for offline / private inference.
@@ -43,46 +102,13 @@ Years of production experience across multiple voice AI platforms — multi-prov
 
 ---
 
-### 🧠 Machine Learning — the path I'm walking
-
-Currently at Phase 0. Structured 7-phase path across the full ML stack — from Python foundations to production MLOps. Progress logged openly in [MLLearning](https://github.com/peacepeacecreation/MLLearning).
-
-**Foundations & data:**
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)](https://matplotlib.org)
-
-**Classical ML:**
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![XGBoost](https://img.shields.io/badge/-XGBoost-006400?style=flat)](https://xgboost.readthedocs.io)
-
-**Deep Learning:**
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
-
-**LLM / GenAI:**
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co)
-[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)](https://langchain.com)
-[![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat)](https://www.llamaindex.ai)
-
-**MLOps:**
-[![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org)
-[![Weights & Biases](https://img.shields.io/badge/-W%26B-FFBE00?logo=weightsandbiases&logoColor=black)](https://wandb.ai)
-
-**Notebooks:**
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
-[![Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com)
-
----
-
 ### 📊 Experience depth at a glance
 
 ```
 Voice AI + realtime + telephony  ██████████████████████  Deep · years in production, multi-provider
+AI / LLM integration             ██████████████████████  Deep · RAG, context engineering, self-hosted inference
 Frontend (Vue / React / Next.js) ████████████████████    Deep · 5y Vue in insurance, SaaS platforms
 Backends (Node.js + Python)      ████████████████████    Deep · Fastify, FastAPI, Express, Django
-AI / LLM integration             ██████████████████      Solid · Claude, OpenAI, Gemini, OpenRouter
 Databases                        ██████████████████      Solid · PostgreSQL, Prisma, Redis, Supabase
 ML fundamentals                  ██████                  Learning · Phase 0 of a dedicated ML path
 ```
@@ -96,8 +122,6 @@ ML fundamentals                  ██████                  Learning ·
 **Backend & realtime:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white)
 
 **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-
-**AI / LLM:** ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white)
 
 **Databases & infra:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
