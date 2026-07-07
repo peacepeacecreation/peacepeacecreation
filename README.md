@@ -10,7 +10,7 @@ I'm learning ML in the open with a method I've been developing: **Claude Code as
 
 Explaining out loud catches what reading doesn't. 10 minutes of voice reflection after each lesson turns notes into knowledge.
 
-**→ [Join the journey — MLLearning](https://github.com/peacepeacecreation/MLLearning)**
+**→ [Join the journey — Claude Mentor](https://github.com/peacepeacecreation/claude-mentor)**
 
 ---
 
@@ -43,7 +43,7 @@ Explaining out loud catches what reading doesn't. 10 minutes of voice reflection
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-**And I'm systematically studying ML foundations openly** in [MLLearning](https://github.com/peacepeacecreation/MLLearning) — the theory layer under everything above:
+**And I'm systematically studying ML foundations openly** in [Claude Mentor](https://github.com/peacepeacecreation/claude-mentor) — the theory layer under everything above:
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
