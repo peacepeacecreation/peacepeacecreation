@@ -16,38 +16,33 @@ Explaining out loud catches what reading doesn't. 10 minutes of voice reflection
 
 ### 🧠 AI / ML
 
-**What I do in production:**
+**Production expertise — daily work:**
 
-- **RAG pipelines** — vector search (pgvector, embeddings), semantic retrieval, hybrid search
-- **Context engineering & AI agents** — custom Claude Code agents, hooks, skills, MCP servers, agentic dev workflows built into the daily loop
-- **Self-hosted LLM inference** — Llama, Piper (TTS), Whisper (STT) — privacy-first pipelines without cloud dependency
-- **Computer vision** — YOLO (Ultralytics) for realtime object detection over video streams
-- **Autonomous / C2 systems integration** — MAVLink telemetry, ArduPilot SITL, MQTT for sensor fusion and message-bus orchestration
-- **CI/CD for AI systems** — Docker, GitHub Actions, VPS + Vercel deployments for AI SaaS, observability, cost tracking
-
-**LLM providers & agents:**
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)](https://openai.com)
-[![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?logo=anthropic&logoColor=white)](https://anthropic.com)
-[![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
-[![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white)](https://ai.google.dev)
-[![OpenRouter](https://img.shields.io/badge/-OpenRouter-1F1F1F?style=flat)](https://openrouter.ai)
-[![Llama](https://img.shields.io/badge/-Llama_(self--hosted)-4CAF50?style=flat)](https://llama.meta.com)
-
-**Vector search & RAG:**
+**Vector search & RAG** — pgvector, embeddings, semantic retrieval, hybrid search in production apps
 [![pgvector](https://img.shields.io/badge/-pgvector-336791?logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
 [![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)](https://langchain.com)
 [![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat)](https://www.llamaindex.ai)
 
-**Computer vision:**
+**Context engineering & AI agents** — custom Claude Code agents, hooks, skills, MCP servers, agentic dev workflows built into the daily loop
+[![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
+[![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?logo=anthropic&logoColor=white)](https://anthropic.com)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![OpenRouter](https://img.shields.io/badge/-OpenRouter-1F1F1F?style=flat)](https://openrouter.ai)
+
+**Self-hosted LLM inference** — Llama for private, offline pipelines (Piper TTS + Whisper STT are covered in the Voice AI section below)
+[![Llama](https://img.shields.io/badge/-Llama_(self--hosted)-4CAF50?style=flat)](https://llama.meta.com)
+
+**Computer vision** — YOLO (Ultralytics) for realtime object detection over video streams
 [![YOLO](https://img.shields.io/badge/-YOLO_(Ultralytics)-111F68?style=flat)](https://ultralytics.com)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
 
-**Autonomous / robotics:**
+**Autonomous / C2 systems integration** — MAVLink telemetry, ArduPilot SITL, MQTT for sensor fusion and message-bus orchestration
 [![MAVLink](https://img.shields.io/badge/-MAVLink-EE0000?style=flat)](https://mavlink.io)
 [![ArduPilot](https://img.shields.io/badge/-ArduPilot-2C3E50?style=flat)](https://ardupilot.org)
 [![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org)
 
-**Infra / CI-CD:**
+**CI/CD for AI systems** — Docker, GitHub Actions, VPS + Vercel deployments for AI SaaS, observability, cost tracking
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
