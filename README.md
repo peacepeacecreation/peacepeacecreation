@@ -2,6 +2,9 @@
 
 Software developer, 9 years in. Learning in public — building an ML engineering path openly on GitHub. Based in Ukraine.
 
+**Solid ground:** realtime backends · WebRTC & voice pipelines · TypeScript/React · AI-tool integration (Claude Code, Anthropic SDK)
+**Growing into:** ML fundamentals · model training · self-hosted inference at production scale
+
 ---
 
 ### 🎯 What I'm working on
@@ -33,12 +36,37 @@ Software developer, 9 years in. Learning in public — building an ML engineerin
 
 ---
 
+### 🗺️ Learning roadmap
+
+```mermaid
+flowchart LR
+    P0[Phase 0<br/>Python foundations]:::current --> P1[Phase 1<br/>Math for ML]
+    P1 --> P2[Phase 2<br/>Classical ML]
+    P2 --> P3[Phase 3<br/>Deep Learning]
+    P3 --> P4[Phase 4<br/>LLM / GenAI]
+    P4 --> P5[Phase 5<br/>MLOps]
+    P5 --> P6[Phase 6<br/>Portfolio projects]
+
+    classDef current fill:#f9a825,color:#000,stroke:#f57f17,stroke-width:2px
+```
+
+Currently at **Phase 0** — Python foundations. Full plan and progress tracker: [ROADMAP.md](https://github.com/peacepeacecreation/MLLearning/blob/main/ROADMAP.md) · [PROGRESS.md](https://github.com/peacepeacecreation/MLLearning/blob/main/PROGRESS.md).
+
+---
+
 ### 📊 Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=peacepeacecreation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacepeacecreation&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=6" alt="top langs" />
 </p>
+
+### 📈 Code breakdown by language
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacepeacecreation&layout=donut&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" alt="code breakdown" />
+</p>
+
+*Public repos on `peacepeacecreation` only. Private projects and code on other accounts not counted.*
 
 ---
 
