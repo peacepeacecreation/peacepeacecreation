@@ -42,10 +42,6 @@ Explaining out loud catches what reading doesn't. 10 minutes of voice reflection
 [![ArduPilot](https://img.shields.io/badge/-ArduPilot-2C3E50?style=flat)](https://ardupilot.org)
 [![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org)
 
-**CI/CD for AI systems** — Docker, GitHub Actions, VPS + Vercel deployments for AI SaaS, observability, cost tracking
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
-
 ---
 
 **And I'm systematically studying ML foundations openly** in [Claude Mentor](https://github.com/peacepeacecreation/claude-mentor) — the theory layer under everything above.
@@ -124,7 +120,9 @@ ML fundamentals                  ██████                  Learning ·
 
 **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
-**Databases & infra:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+
+**CI/CD & observability:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white) ![PostHog](https://img.shields.io/badge/-PostHog-000000?logo=posthog&logoColor=white) ![Langfuse](https://img.shields.io/badge/-Langfuse-000000?style=flat)
 
 ---
 
