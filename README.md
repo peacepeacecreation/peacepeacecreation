@@ -43,6 +43,39 @@ Years of production experience across multiple voice AI platforms — multi-prov
 
 ---
 
+### 🧠 Machine Learning — the path I'm walking
+
+Currently at Phase 0. Structured 7-phase path across the full ML stack — from Python foundations to production MLOps. Progress logged openly in [MLLearning](https://github.com/peacepeacecreation/MLLearning).
+
+**Foundations & data:**
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)](https://matplotlib.org)
+
+**Classical ML:**
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![XGBoost](https://img.shields.io/badge/-XGBoost-006400?style=flat)](https://xgboost.readthedocs.io)
+
+**Deep Learning:**
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
+
+**LLM / GenAI:**
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)](https://langchain.com)
+[![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat)](https://www.llamaindex.ai)
+
+**MLOps:**
+[![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org)
+[![Weights & Biases](https://img.shields.io/badge/-W%26B-FFBE00?logo=weightsandbiases&logoColor=black)](https://wandb.ai)
+
+**Notebooks:**
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+
+---
+
 ### 📊 Experience depth at a glance
 
 ```
@@ -67,8 +100,6 @@ ML fundamentals                  ██████                  Learning ·
 **AI / LLM:** ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white)
 
 **Databases & infra:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-
-**Currently learning:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ---
 
